@@ -15,7 +15,7 @@ public class Triangle extends Shape{
         this.edgeA = edgeA;
     }
 
-    public int getEdgeB() {
+    public int getEdgeB() {//test
         return edgeB;
     }
 
