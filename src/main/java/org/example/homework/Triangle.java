@@ -34,8 +34,6 @@ public class Triangle extends Shape{
     public Triangle() {
     }
 
-
-
     @Override
     public String getShapeName() {
         return name;
